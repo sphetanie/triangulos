@@ -12,3 +12,5 @@ if (lado1 + lado2 > lado3) or (lado2 + lado3 > lado1):
     elif (lado1 != lado2) and (lado1 != lado3):
         print("É escaleno")
         
+else:
+    print("Não é um triângulo")
